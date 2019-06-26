@@ -1,4 +1,4 @@
-maxtube
+maxtube (https://test.com)
 =======
 
 Full Screen youtube media player manager
